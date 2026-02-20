@@ -1,0 +1,12 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #ffffff;
+}
+img {
+    max-width: 100%;
+    height: auto;
+  box-shadow: 10px 10px 10px #000;
+  border-radius: 540px 10px 10px ;
+  border: solid 11px #ccc;
+}
